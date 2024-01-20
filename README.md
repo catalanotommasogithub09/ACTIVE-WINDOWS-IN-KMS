@@ -1,3 +1,3 @@
-# Files-Windows
+#   ACTIVE-KMS-FOR-FREE
 Windows Licensing Information: Windows Trusts KMS to Validate Free Licenses. This option activates Windows for free with KMS permission. Windows Powershell and Cmd commands: the commands will be added while I work on powershell first of all I now add the free licenses to update windows to windows 10 home a pro or pro for workgroups in free but you need permission to have the kms.
 instead on windows powershell I will make some commands that you can use On the Windows Files I will also add the Windows files such as malware and applications for example what is system32 so from here I build the files Thanks.
